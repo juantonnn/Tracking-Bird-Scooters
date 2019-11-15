@@ -1,0 +1,5 @@
+cron:
+- description: Store scooter locations
+  url: /bird-migration-gcp/bird_to_gcp
+  schedule: every 1 hours from 07:00 to 21:00
+  target: default

@@ -1,0 +1,4 @@
+google-cloud-bigquery
+google-api-python-client
+gunicorn==19.9.0
+pandas
